@@ -1,0 +1,9 @@
+# Build folder
+build/
+*.exe
+*.obj
+*.pdb
+*.log
+
+# VS Code
+.vscode/
